@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto One For All!
+# Boas vindas ao repositório do One For All!
 
 # Habilidades
 Neste projeto, verificamos se voce é capaz de:
